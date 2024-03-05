@@ -1,0 +1,30 @@
+{
+  "title": "Language List",
+  "default": "en-US",
+  "child": [{
+      "name": "en-US",
+      "label": "English",
+      "fileName": "en",
+      "members": [{
+        "name":"B1397KB"
+      }, {
+        "name":"Return_Log"
+      }]
+    },
+    {
+      "name": "zh-CN",
+      "label": "简体中文",
+      "fileName": "zh_CN",
+      "main": true,
+      "members": []
+    },
+    {
+      "name": "zh-TW",
+      "label": "繁体中文",
+      "fileName": "zh_TW",
+      "members": [{
+        "name": "s0110527"
+      }]
+    }
+  ]
+}
