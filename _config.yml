@@ -2,13 +2,12 @@ title: hll app
 description: hll app
 theme: just-the-docs
 
-port: 4005
+port: 4006
 
 url: https://github.com/hell-gun-calculator
 favicon_ico: "/assets/images/logo.png"
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo-docs.png"
 search_enabled: true
-color_scheme: main
 
 callouts:
   warning:

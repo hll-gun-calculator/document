@@ -4,6 +4,8 @@ layout: default
 nav_order: 1
 ---
 
+![](assets/images/screenshot_app.png)
+
 # 什么是HLL-Gun-Calc?
 
 完整名称人间地狱火炮计算器，提供距离换算角度工具
