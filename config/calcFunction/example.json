@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "author": "example",
   "website": "example.com",
+  "updataFunction": [
+    {
+      "name": "github path",
+      "path": "https://raw.githubusercontent.com/hell-gun-calculator/document/main/config/calcFunction/example.json"
+    }
+  ],
   "child": {
     "Germany": {
       "maximumRange": 1600,
