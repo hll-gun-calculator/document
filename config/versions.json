@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "version": "0.0.1",
+      "system": {
+        "android": {
+          "version": "<0.0.1",
+          "buildNumber": "<0.0.1.6"
+        },
+        "ios": {
+          "version": "<0.0.1",
+          "buildNumber": "<0.0.1.6"
+        }
+      },
+      "platform": {
+        "google-play": {
+          "buildNumber": "<0.0.1.6",
+          "url": "https://play.google.com/store/apps/details?id=com.cabbagelol.bfban"
+        },
+        "apple": {
+          "buildNumber": "<0.0.1.6",
+          "url": "https://apps.apple.com/us/app/bfban/id6446828173"
+        }
+      },
+      "content": "<ul><li>1</li><li>2</li></ul>"
+    }
+  ]
+}

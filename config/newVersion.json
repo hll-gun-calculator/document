@@ -1,0 +1,14 @@
+{
+  "android": {
+    "version": "0.0.1",
+    "buildNumber": "1"
+  },
+  "ios": {
+    "version": "0.0.1",
+    "buildNumber": "1"
+  },
+  "web": {
+    "version": "0.0.1",
+    "buildNumber": "2"
+  }
+}
