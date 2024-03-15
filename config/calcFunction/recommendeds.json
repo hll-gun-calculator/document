@@ -2,6 +2,10 @@
   "child": [
     {
       "name": "example-calc",
+      "description": {
+        "zh_CN": "示例配置",
+        "en_US": "example config"
+      },
       "updataFunction": [
         {
           "name": "github path",
@@ -11,6 +15,10 @@
     },
     {
       "name": "easyarty-calc",
+      "description": {
+        "zh_CN": "arty配置",
+        "en_US": "arty config"
+      },
       "updataFunction": [
         {
           "name": "github path",

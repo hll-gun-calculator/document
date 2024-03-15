@@ -1,7 +1,17 @@
 {
   "child": [
     {
-      "name": ""
+      "name": "example-mattw",
+      "description": {
+        "zh_CN": "mattw-开放地图地图",
+        "en_US": "mattw open hll maps"
+      },
+      "updataFunction": [
+        {
+          "name": "github path",
+          "path": "https://raw.githubusercontent.com/hell-gun-calculator/document/main/config/map/example-mattw.json"
+        }
+      ]
     }
   ]
 }
