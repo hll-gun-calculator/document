@@ -1,0 +1,22 @@
+{
+  "child": [
+    {
+      "name": "example-calc",
+      "updataFunction": [
+        {
+          "name": "github path",
+          "path": "https://raw.githubusercontent.com/hell-gun-calculator/document/main/config/calcFunction/example.json"
+        }
+      ]
+    },
+    {
+      "name": "easyarty-calc",
+      "updataFunction": [
+        {
+          "name": "github path",
+          "path": "https://raw.githubusercontent.com/hell-gun-calculator/document/main/config/calcFunction/easyarty.json"
+        }
+      ]
+    }
+  ]
+}
