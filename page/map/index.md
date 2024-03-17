@@ -11,6 +11,9 @@ nav_order: 4
 地图
 {: .label .label-green }
 
+测试
+{: .label .label-error }
+
 {: .note }
 作为’地图测量‘所加载地图数据，这包含地图本身、额外图层、坐标
 
