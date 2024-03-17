@@ -21,3 +21,5 @@ callouts:
 nav_external_links:
   - title: HLL-Gun-Calc Web版
     url: https://hll-gun-calculato-app-for-web.vercel.app/
+  - title: HLL-Gun-Calc 仓库
+    url: https://github.com/hell-gun-calculator
