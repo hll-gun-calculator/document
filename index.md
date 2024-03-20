@@ -16,12 +16,11 @@ nav_order: 1
 [其他版本](page/version){: .btn .btn-outline }
 </span>
 
-
 # 特点
 
 ## 面板功能
 
-- 【功能】[距离计算器](/page/calc/index)(核心)
+- 【功能】[密位计算器](/page/calc/index)(核心)
 - 【功能】[地图测量](/page/map/index)，可视地图标记地点测量最后结果
 - 【功能】火炮计时器，发射后计时落地时间
 - 【功能】火炮测量表，直接列出可用刻度，支持快捷检索
@@ -36,8 +35,13 @@ nav_order: 1
 
 # 下载
 
-| 平台      | 描述       | 正式(下载地址) | 测试(下载地址)                                               |
-|---------|----------|----------|--------------------------------------------------------|
-| Android | android  |          |                                                        |
-| Ios     | ios、ipad |          | https://testflight.apple.com/join/QDNcmCSa             |
-| Web     | web      | N/A      | https://hll-gun-calculato-app-for-7r8gfh9j7.vercel.app |
+| 平台      | 描述       | 正式   | 测试                                                                                  |
+|---------|----------|------|-------------------------------------------------------------------------------------|
+| Android | android  | 尚未发布 | 尚未发布                                                                                |
+| Ios     | ios、ipad | 尚未发布 | [参与测试资格](https://testflight.apple.com/join/QDNcmCSa){: .btn .btn-outline }          |
+| Web     | web      | N/A  | [访问](https://hll-gun-calculato-app-for-7r8gfh9j7.vercel.app ){: .btn .btn-outline } |
+
+问题反馈:
+
+1. 可以在对应商店参与测试频道，通过测试频道提交问题
+2. 在github仓库里提问
