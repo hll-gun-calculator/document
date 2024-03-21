@@ -18,10 +18,10 @@
         1905
       ],
       "factions": {
-        "America": {
+        "UnitedStates": {
           "gunPosition": [
             {
-              "name": "America Gun 1",
+              "name": "UnitedStates Gun 1",
               "description": {
                 "zh_CN": "位置"
               },
@@ -31,14 +31,14 @@
               ]
             },
             {
-              "name": "America Gun 2",
+              "name": "UnitedStates Gun 2",
               "offset": [
                 114.876,
                 1905
               ]
             },
             {
-              "name": "America Gun 3",
+              "name": "UnitedStates Gun 3",
               "offset": [
                 114.876,
                 1925
@@ -151,7 +151,7 @@
         2000
       ],
       "factions": {
-        "America": {
+        "UnitedStates": {
           "gunPosition": [
             {
               "name": "1",

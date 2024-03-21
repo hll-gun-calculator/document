@@ -12,7 +12,7 @@ parent: 地图合集
 | description     | 描述                                         | String or [MapI18n] | null               |      |        |
 | size            | 地图大小, [宽,高]                                | List                | [1000, 1000]       |  ✅   |        |
 | initialPosition | 初始位置                                       | List                | [0,0]              |      |        |
-| factions        | 阵营, 详情查看[配置](/page/dataType/factions)的阵营名称 | Map<Factions>       | {"America": {...}} |      |        |
+| factions        | 阵营, 详情查看[配置](/page/dataType/factions)的阵营名称 | Map<Factions>       | {"UnitedStates": {...}} |      |        |
 | assets          | 基本地图,[assets参数](#assets参数)                 | Map                 | {}                 |      |        |
 | childs          | 图层                                         | Map                 | {}                 |      |        |
 | marker          | [marker参数](#marker参数)                      | List                | []                 |      |        |
@@ -29,10 +29,10 @@ parent: 地图合集
 
 ```json
 {
-  "America": {
+  "UnitedStates": {
     "gunPosition": [
       {
-        "name": "America Gun 1",
+        "name": "UnitedStates Gun 1",
         "description": {
           "zh_CN": "位置"
         },

@@ -37,7 +37,7 @@ parent: 计算函数
     }
   ],
   "child": {
-    "America": {
+    "UnitedStates": {
       "maximumRange": 1600,
       "minimumRange": 100,
       "envs": {

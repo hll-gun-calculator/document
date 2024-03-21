@@ -10,7 +10,7 @@ parent: 数据类型
 
 | 名称             | 描述   |
 |----------------|------|
-| America        | 美国   |
+| UnitedStates   | 美国   |
 | Germany        | 德国   |
 | TheSovietUnion | 苏联   |
 | GreatBritain   | 大不列颠 |
