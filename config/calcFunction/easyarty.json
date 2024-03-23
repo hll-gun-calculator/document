@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "author": "Max Leiter",
   "website": "easyarty.com",
+  "updataFunction": [
+    {
+      "name": "github path",
+      "path": "https://raw.githubusercontent.com/hell-gun-calculator/document/main/config/calcFunction/easyarty.json"
+    }
+  ],
   "child": {
     "UnitedStates": {
       "maximumRange": 1600,

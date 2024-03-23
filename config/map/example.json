@@ -1,14 +1,14 @@
 {
-  "name": "mattw",
+  "name": "example",
   "description": {
-    "zh_CN": "位置"
+    "zh_CN": "example"
   },
-  "author": "mattwright324",
+  "author": "example",
   "version": "0.0.1",
-  "website": "mattw.io",
+  "website": "example.com",
   "data": [
     {
-      "name": "Carentan",
+      "name": "Map name",
       "size": [
         4096,
         4096
