@@ -1,5 +1,5 @@
 {
-  "name": "mattw",
+  "name": "test-mattw",
   "description": {
     "zh_CN": "位置"
   },
@@ -9,7 +9,7 @@
   "updataFunction": [
     {
       "name": "github path",
-      "path": "https://raw.githubusercontent.com/hell-gun-calculator/document/main/config/calcFunction/example.json"
+      "path": "https://hll-gun-calc.app-document.cabbagelol.net/config/calcFunction/mattw.json"
     }
   ],
   "data": [
