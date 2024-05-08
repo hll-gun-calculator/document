@@ -35,11 +35,11 @@ nav_order: 1
 
 # 下载
 
-| 平台      | 描述       | 正式   | 测试                                                                                                     |
-|---------|----------|------|--------------------------------------------------------------------------------------------------------|
+| 平台      | 描述       | 正式   | 测试                                                                                                   |
+|---------|----------|------|------------------------------------------------------------------------------------------------------|
 | Android | android  | 尚未发布 | [参与测试资格](https://play.google.com/apps/testing/com.cabbagelol.hll_gun_calculator){: .btn .btn-outline } |
-| Ios     | ios、ipad | 尚未发布 | [参与测试资格](https://testflight.apple.com/join/QDNcmCSa){: .btn .btn-outline }                             |
-| Web     | web      | N/A  | [访问](https://hll-gun-calculato-app-for-7r8gfh9j7.vercel.app ){: .btn .btn-outline }                    |
+| Ios     | ios、ipad | 尚未发布 | [参与测试资格](https://testflight.apple.com/join/QDNcmCSa){: .btn .btn-outline }                           |
+| Web     | web      | N/A  | [访问](https://hll-gun-calc.app-web.cabbagelol.net){: .btn .btn-outline }                    |
 
 问题反馈:
 
