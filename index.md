@@ -35,11 +35,13 @@ nav_order: 1
 
 # 下载
 
-| 平台      | 描述       | 正式   | 测试                                                                                                   |
-|---------|----------|------|------------------------------------------------------------------------------------------------------|
-| Android | android  | 尚未发布 | [参与测试资格](https://play.google.com/apps/testing/com.cabbagelol.hll_gun_calculator){: .btn .btn-outline } |
-| Ios     | ios、ipad | 尚未发布 | [参与测试资格](https://testflight.apple.com/join/QDNcmCSa){: .btn .btn-outline }                           |
-| Web     | web      | N/A  | [访问](https://hll-gun-calc.app-web.cabbagelol.net){: .btn .btn-outline }                    |
+* 由于大陆APP政策，应用在Apple商店不上架，请更换对应账户地区下载，谢谢。
+
+| 平台      | 描述       | 正式                                                                                     | 测试                                                                                                     |
+|---------|----------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Android | android  | [访问商店](https://play.google.com/store/apps/details?id=com.cabbagelol.hll_gun_calculator){: .btn .btn-outline } | [参与测试资格](https://play.google.com/apps/testing/com.cabbagelol.hll_gun_calculator){: .btn .btn-outline } |
+| Ios     | ios、ipad | [访问商店](https://apps.apple.com/app/hll-gun-calculator/id6479570580){: .btn .btn-outline }                   | [参与测试资格](https://testflight.apple.com/join/QDNcmCSa){: .btn .btn-outline }                             |
+| Web     | web      | [访问](https://hll-gun-calc.app-web.cabbagelol.net){: .btn .btn-outline }                | [访问](https://hll-gun-calculato-app-for-7r8gfh9j7.vercel.app){: .btn .btn-outline }                     |
 
 问题反馈:
 
